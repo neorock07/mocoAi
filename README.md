@@ -1,10 +1,11 @@
-# iread
+# mocoAi
 
-A new Flutter project.
+A mobile App created with pleasure to help blind people see the world.
 
-## Getting Started
+## What this app can do ?
 
-This project is a starting point for a Flutter application.
+With this app users could know any text arround them. powered by text-to-speech users can listen what the meaning of texts they're shot.
+
 
 A few resources to get you started if this is your first Flutter project:
 
