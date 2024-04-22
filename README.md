@@ -1,4 +1,4 @@
-# mocoAi
+# mocoAi (Dicoding x IDCamp Challenge 2024 Winner App)
 
 A mobile App created with pleasure to help blind people see the world.
 
